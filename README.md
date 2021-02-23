@@ -1,5 +1,7 @@
 ### Hi there 👋 | Salut toi 👋
 
+How are you ? | Comment vas tu ?
+
 <!--
 **Vortezz/Vortezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
