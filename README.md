@@ -8,8 +8,7 @@ You can contact me by oppening an issue in this repo : [Contact](https://github.
 
 ### Projects | Projets
 
-- [x] [Time-MC.net](https://time-mc.net)
-- [ ] My Website (70%)
+- [x] [My Website](https://vortezz.fr)
 - [ ] Minecraft Launcher
 - [ ] Social Networks API NPM (Like Youtube...)
 And more...
