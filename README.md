@@ -1,16 +1,14 @@
-### Hello 👋 | Bonjour 👋
+# Welcome !
 
-Welcome on my Github Page ! | Bienvenue sur ma Page Github !
+## I'm **Vortezz**, a young french developer !
 
-I'm a french WEB, Java & Apps developper | Je suis un développeur WEB, Java & d'applications français
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Vortezz&show_icons=true&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortezz&theme=dark&hide_border=true)
 
-You can contact me by oppening an issue in this repo : [Contact](https://github.com/Vortezz/Vortezz/issues) | Vous pouvez me contacter en ouvrant une issue ici : [Contact](https://github.com/Vortezz/Vortezz/issues)
+### ⚙️ Websites, NodeJS and Java Programs, Mobile Apps
 
-### Projects | Projets
+### 🌐 https://vortezz.dev
 
-- [x] [My Website](https://vortezz.fr)
-- [ ] Minecraft Launcher
-- [ ] Social Networks API NPM (Like Youtube...)
-And more...
+### 🌳 Like Nature
 
-### Have a good day | Passez une bonne journée
+### 📨 `contact@vortezz.fr`
