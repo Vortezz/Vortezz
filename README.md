@@ -11,4 +11,4 @@
 
 ### 🌳 Like Nature
 
-### 📨 `contact@vortezz.fr`
+### 📨 `contact@vortezz.dev`
