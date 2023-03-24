@@ -12,3 +12,5 @@
 ### 🌳 Like Nature
 
 ### 📨 `contact@vortezz.dev`
+
+This readme will be reworked soon! Stay in touch :)
