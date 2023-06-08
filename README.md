@@ -1,16 +1,30 @@
-# Welcome !
+### Hi there 👋 I'm Victor
 
-## I'm **Vortezz**, a young french developer !
+I'm a french 🥖 fullstack developer. I love to create web apps, Minecraft plugins and mobile apps. I'm also an open source enjoyer and my goal is to provide ethical code 🌱<br>
+I enjoy to learn new things and to speak english!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vortezz&show_icons=true&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortezz&theme=dark&hide_border=true)
+I'm currently a Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
 
-### ⚙️ Websites, Java and Mobile Apps
+### Skills
 
-### 🌐 https://vortezz.dev
+![Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,flutter,mongodb,mysql,redis,react,tailwind,docker)
 
-### 🌳 Like Nature
+### I worked for them
 
-### 📨 `contact@vortezz.dev`
+#### Brands
 
-This readme will be reworked soon! Stay in touch :)
+* [Microsoft](https://microsoft.com/)
+* [Nestlé](https://nestle.com/)
+* [Apericube](https://www.ribambel.com/apericube)
+
+#### Influencers
+
+* [Siphano](https://youtube.com/@Siphano)
+
+### Contact me
+
+You can contact me by email at `contact@vortezz.dev`, by filling a form at https://vortezz.dev/contact or by phone at `+33 6 52 22 08 52` (tax rates for France apply)
+
+### Main projects
+
+Here is a selection of my main personal projects : 
