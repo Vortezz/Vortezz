@@ -19,7 +19,7 @@ I'm currently a Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
 
 #### Influencers
 
-* [Siphano](https://youtube.com/@Siphano)
+* [Siphano](https://youtube.com/@Siphano13)
 
 ### Contact me
 
