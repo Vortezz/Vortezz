@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Victor
 
 I'm a french 🥖 fullstack developer. I love to create web apps, Minecraft plugins and mobile apps. I'm also an open source enjoyer and my goal is to provide ethical code 🌱<br>
-I enjoy to learn new things and to speak english!
+I enjoy learning new things and speaking english!
 
-I'm currently a Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
+I'm currently in a MP2I preparatory class for engineer schools in Louis Le Grand in Paris.
+I'm also Senior Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
 
 ### Skills
 
