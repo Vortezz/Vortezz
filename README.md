@@ -4,7 +4,7 @@ I'm a french 🥖 fullstack developer. I love to create web apps, Minecraft plug
 I enjoy learning new things and speaking english!
 
 I'm currently in a MP2I preparatory class for engineer schools in Louis Le Grand in Paris.
-I'm also Senior Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
+I'm also Java Director for [@Ekalia](https://ekalia.fr/) since 2022.
 
 ### Skills
 
