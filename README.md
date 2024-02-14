@@ -15,7 +15,6 @@ I'm also Senior Java developer for [@Ekalia](https://ekalia.fr/) since 2022.
 #### Brands
 
 * [Microsoft](https://microsoft.com/)
-* [Nestlé](https://nestle.com/)
 * [Apericube](https://www.ribambel.com/apericube)
 
 #### Influencers
