@@ -8,7 +8,7 @@ Since 2022, I've also been the Java Lead at [@Ekalia](https://ekalia.fr/).
 
 ### Skills
 
-![Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,flutter,mongodb,mysql,redis,react,tailwind,docker)
+![Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,flutter,mongodb,mysql,ocaml,redis,react,tailwind,docker)
 
 ### I've worked with
 
