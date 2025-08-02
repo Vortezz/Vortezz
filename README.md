@@ -3,7 +3,7 @@
 I'm a French 🥖 full-stack developer. I love creating web apps, Minecraft plugins, and mobile apps. I'm also an open-source enthusiast, and my goal is to provide ethical code 🌱.  
 I enjoy learning new things and speaking English!
 
-I'm currently in an MPI* preparatory class for engineering schools at Louis-Le-Grand in Paris.  
+I'm currently enrolled in the Ingénieur Polytechnicien Program at Ecole Polytechnique in Palaiseau (near Paris).  
 Since 2022, I've also been the Java Lead at [@Ekalia](https://ekalia.fr/).
 
 ### Skills
@@ -27,4 +27,4 @@ You can contact me by email at [contact@vortezz.dev](mailto:contact+github@vorte
 
 ### Main projects
 
-Here is a selection of my main personal projects:
+Here is a selection of my main personal projects, along with some resources from my previous classes:
